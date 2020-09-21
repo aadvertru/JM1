@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7f4b92-1c92-4b21-91ce-e96438b7fb4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1hdirOOq7Bl8U9GnUBjDbZ0NE9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7f4b92-1c92-4b21-91ce-e96438b7fb4c" name="Default Changelist" comment="" />
+      <created>1600347567867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600347567867</updated>
+      <workItem from="1600347568955" duration="26209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="547" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600359075591">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state x="348" y="547" key="#com.intellij.fileTypes.FileTypeChooser/53.23.2507.1417@53.23.2507.1417" timestamp="1600359075591" />
+    <state x="291" y="345" key="run.anything.popup" timestamp="1600626951525">
+      <screen x="53" y="23" width="2507" height="1417" />
+    </state>
+    <state x="291" y="345" key="run.anything.popup/53.23.2507.1417@53.23.2507.1417" timestamp="1600626951525" />
+  </component>
+</project>
